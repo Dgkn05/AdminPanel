@@ -1,0 +1,11 @@
+name: AdminPanel
+main: iSpokeZ\AdminPanel
+api: [3.9.1]
+version: 1.0
+author: iSpokeZ
+commands:
+  apanel:
+    description: Admin Paneli (iSpokeZ)
+permissions:
+  apanel.kmt:
+    default: op
